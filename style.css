@@ -127,7 +127,7 @@ nav ul li a:hover {
     width: 100%;
     overflow: hidden;
 
-    scrollbar-width: 20px;
+    /* scrollbar-width: 20px; */
     /* background-color: #F3ECEA ; */
     background-color: #ffff;
 }
@@ -175,8 +175,8 @@ nav ul li a:hover {
 }
 
 .card {
-    height: 20rem;
-    width: 20rem;
+    height: 20%;
+    width: 20%;
     margin-left: 5rem;
     border-radius: 20px;
     overflow: hidden;
